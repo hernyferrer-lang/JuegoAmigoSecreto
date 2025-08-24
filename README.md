@@ -37,3 +37,14 @@ Luego:
 Finalmente:
 
 `git commit -m "Agrega función para sortear amigo secreto"`
+
+
+Dependencias:
+
+- amigo-secreto
+ ┣ 📂 assets
+ ┃ ┗ amigo-secreto.png
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┣ 📜 app.js
+ ┗ 📜 README.md
