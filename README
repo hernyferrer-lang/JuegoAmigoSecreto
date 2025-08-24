@@ -1,3 +1,20 @@
+ Juego Amigo Secreto
+
+Una aplicación web simple para organizar un sorteo de **Amigo Secreto**.  
+Los usuarios pueden ingresar nombres en una lista y luego realizar un sorteo aleatorio.
+
+---
+
+ Funcionalidades
+
+- Agregar nombres a la lista.
+- Validar que el campo de entrada no esté vacío.
+- Mostrar la lista de amigos en pantalla.
+- Sortear un amigo de manera aleatoria y mostrarlo en la página.
+
+---
+
+commits
 
 git init → Iniciar el repositorio.
 
