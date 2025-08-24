@@ -16,24 +16,24 @@ Los usuarios pueden ingresar nombres en una lista y luego realizar un sorteo ale
 
 commits
 
-git init → Iniciar el repositorio.
+`git init` → Iniciar el repositorio.
 
-git add .
+`git add .`
 
-git commit -m "Inicializa proyecto con estructura HTML y CSS"
+`git commit -m "Inicializa proyecto con estructura HTML y CSS"`
 
-Agregás app.js con las funciones y hacés:
+Agregás `app.js` con las funciones y hacés:
 
-git commit -m "Agrega funcionalidad para añadir nombres"
+`git commit -m "Agrega funcionalidad para añadir nombres"`
 
 Después:
 
-git commit -m "Implementa validación de entrada vacía"
+`git commit -m "Implementa validación de entrada vacía"`
 
 Luego:
 
-git commit -m "Muestra la lista de amigos en pantalla"
+`git commit -m "Muestra la lista de amigos en pantalla"`
 
 Finalmente:
 
-git commit -m "Agrega función para sortear amigo secreto"
+`git commit -m "Agrega función para sortear amigo secreto"`
