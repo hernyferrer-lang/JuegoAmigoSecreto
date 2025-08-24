@@ -38,6 +38,7 @@ Finalmente:
 
 `git commit -m "Agrega función para sortear amigo secreto"`
 
+---
 
 Dependencias:
 
