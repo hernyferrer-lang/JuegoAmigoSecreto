@@ -16,8 +16,7 @@ Los usuarios pueden ingresar nombres en una lista y luego realizar un sorteo ale
 
 commits
 
-git add .
- → Iniciar el repositorio.
+git init → Iniciar el repositorio.
 
 git add .
 
